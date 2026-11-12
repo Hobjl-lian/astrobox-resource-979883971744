@@ -1,0 +1,78 @@
+{
+  "item": {
+    "id": "979883971744",
+    "restype": "watchface",
+    "name": "零UI-照片表盘",
+    "description": "经典重制，焕发新生\n保留了一贯的简约留白设计，同时支持替换底部图片和相框内图片两张壁纸，给您更高的自定义程度；并且还支持多配色切换，无论怎么样的壁纸都能 hold 住\n表盘功能\n1.支持自定义数据，站立、电量、步数、心率、睡眠、温度、秒数\n2.支持自定义跳转，秒表、倒计时、心率、卡包、微信支付、活力健康、天气、设置、日历、支付宝",
+    "preview": [
+      "media/preview1.png",
+      "media/preview2.png",
+      "media/preview3.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.png",
+    "author": [
+      {
+        "name": "Hobjl",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "点击此处了解表盘详情",
+      "url": "https://afdian.com/item/fa316f42dea511f1b02b52540025c377",
+      "icon": "hand-heart"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.2",
+      "file_name": "downloads/零UI-照片表盘-band10_11-v1.0.2.bin",
+      "versionCode": 65538
+    },
+    "xmb10nfc": {
+      "version": "1.0.2",
+      "file_name": "downloads/零UI-照片表盘-band10_11-v1.0.2.bin",
+      "versionCode": 65538
+    },
+    "xmb11": {
+      "version": "1.0.2",
+      "file_name": "downloads/零UI-照片表盘-band10_11-v1.0.2.bin",
+      "versionCode": 65538
+    },
+    "xmb11nfc": {
+      "version": "1.0.2",
+      "file_name": "downloads/零UI-照片表盘-band10_11-v1.0.2.bin",
+      "versionCode": 65538
+    },
+    "xmb9p": {
+      "version": "1.0.2",
+      "file_name": "downloads/零UI-照片表盘-band9pro_10pro-v1.0.2.bin",
+      "versionCode": 65538
+    },
+    "xmb10p": {
+      "version": "1.0.2",
+      "file_name": "downloads/零UI-照片表盘-band9pro_10pro-v1.0.2.bin",
+      "versionCode": 65538
+    },
+    "xmrw5": {
+      "version": "1.0.2",
+      "file_name": "downloads/零UI-照片表盘-rw5-v1.0.2.bin",
+      "versionCode": 65538
+    },
+    "xmrw5xring": {
+      "version": "1.0.2",
+      "file_name": "downloads/零UI-照片表盘-rw5-v1.0.2.bin",
+      "versionCode": 65538
+    },
+    "xmrw6": {
+      "version": "1.0.2",
+      "file_name": "downloads/零UI-照片表盘-rw5-v1.0.2.bin",
+      "versionCode": 65538
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
